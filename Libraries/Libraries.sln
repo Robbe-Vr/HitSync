@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SYWPipeNetworkManager", "SYWPipeNetworkManager\SYWPipeNetworkManager.csproj", "{DF3AE674-24B2-4F16-BDC6-A83F55C24FC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SYWCentralLogging", "SYWCentralLogging\SYWCentralLogging.csproj", "{ED6D6981-4812-4314-9587-F910B1848745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3AE674-24B2-4F16-BDC6-A83F55C24FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3AE674-24B2-4F16-BDC6-A83F55C24FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3AE674-24B2-4F16-BDC6-A83F55C24FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3AE674-24B2-4F16-BDC6-A83F55C24FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6D6981-4812-4314-9587-F910B1848745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6D6981-4812-4314-9587-F910B1848745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6D6981-4812-4314-9587-F910B1848745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6D6981-4812-4314-9587-F910B1848745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F52D6C-8FC5-4DFA-B0EE-F0A9EA1F71D6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+.vs
+*.suo
+*.user
+*.backup
+*.clef
+bin
+obj
+build
